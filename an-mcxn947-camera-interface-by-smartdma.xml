@@ -1,0 +1,27 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" type="app_note" format="projectfile" versionSchema="1.0.0" name="mcxn947-camera-interface-by-smartdma" uuid="91b58d14-ba8e-46fa-a343-2f0345011fc9">
+    <display_title>
+        AN14191: How to Use SmartDMA to Implement Camera Interface in MCXN MCU
+    </display_title>
+    <overview>
+        <![CDATA[This software accompanies application note [AN14191](https://www.nxp.com.cn/docs/en/application-note/AN14191.pdf).This application note describes the parallel interface for the camera solution in MCXN947 andMCXN236. It includes the introduction of camera interface, features, API routines, and demo.]]>
+    </overview>
+    <toolchains>
+        <toolchain name="mcux"></toolchain>
+    </toolchains>
+    <families>
+        <family name="mcx"></family>
+    </families>
+    <nxp_compatible_hw>
+        <hw id="FRDM-MCXN947"></hw>
+    </nxp_compatible_hw>
+    <peripherals>
+        <peripheral name="dma"></peripheral>
+        <peripheral name="flexio"></peripheral>
+        <peripheral name="video"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="hmi"></category>
+        <category name="graphics"></category>
+        <category name="vision"></category>
+    </categories>
+</data:item>

@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "C:\Users\nxf42870\Documents\MCUXpressoIDE_11.8.1_1197\workspace\frdmmcxn947_samrtdma_camera\Debug\frdmmcxn947_samrtdma_camera.hex"
+qc
+
+qc
